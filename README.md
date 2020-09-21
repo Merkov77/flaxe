@@ -1,5 +1,7 @@
 # flaxe 1.0.1
 
+<img src="flaxe.png" width="20%"> 
+
 # Use in html head or npm install flaxe
 
 > <script src="https://unpkg.com/flaxe@1.0.1"></script>
