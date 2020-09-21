@@ -8,9 +8,9 @@
 
 # You only need 
 ## In HTML code
-1.- Define "id" name in the container general element
-2.- Define class identifiers on general container children
-3.- Call the script flaxe below everything, or use and script directly, but always below
+1. Define "id" name in the container general element
+2. Define class identifiers on general container children
+3. Call the script flaxe below everything, or use and script directly, but always below
 
 You need class identifiers defined as: "header", "section", "aside", "footer" for view changes specified in the configuration flex box
 
@@ -33,9 +33,9 @@ You need class identifiers defined as: "header", "section", "aside", "footer" fo
 
 ## In the javascript code
 
-1.- Import the script
-2.- Create a new Instance
-3.- Define the Responsive method and assign it the required parameters: container name, common name of child elements, configuration of flexbox using an object and the order of elements
+1. Import the script
+2. Create a new Instance
+3. Define the Responsive method and assign it the required parameters: container name, common name of child elements, configuration of flexbox using an object and the order of elements
 
 <pre>
 let config = {
