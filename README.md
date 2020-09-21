@@ -2,7 +2,7 @@
 
 # Use in html head or npm install flaxe
 
-> <script src="https://unpkg.com/flaxe@1.0.2"></script>
+> <script src="https://unpkg.com/flaxe@1.0.0"></script>
 
 # You only need 
 ## In HTML code
