@@ -12,20 +12,22 @@
 
 You need class identifiers defined as: "header", "section", "aside", "footer" for view changes specified in the configuration flex box
 
-<div id="root">
-	<div class="children header">
+<pre>
+	<div id="root">
+		<div class="children header">
+		</div>
+		<div class="children section">
+		</div>
+		<div class="children aside">
+		</div>
+		<div class="children footer">
+		</div>
+		<div class="children other">
+		</div>
+		<div class="children other">
+		</div>
 	</div>
-	<div class="children section">
-	</div>
-	<div class="children aside">
-	</div>
-	<div class="children footer">
-	</div>
-	<div class="children other">
-	</div>
-	<div class="children other">
-	</div>
-</div>
+</pre>
 
 > The elements named "other" will be shown as specified but always below the fundamental structure "section" - "aside" or vice versa
 
