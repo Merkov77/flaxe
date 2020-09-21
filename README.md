@@ -1,4 +1,6 @@
-# flaxe#Use in html head or npm install flaxe
+# flaxe
+
+#Use in html head or npm install flaxe
 
 > <script src="https://unpkg.com/flaxe@1.0.2"></script>
 
